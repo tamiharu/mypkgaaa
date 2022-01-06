@@ -5,7 +5,7 @@ from std_msgs.msg import Int32
 n = 0
 
 def cb(message):
-    global n
+        global n
     n = message.data*2
 
 rospy.init_node('twice')
