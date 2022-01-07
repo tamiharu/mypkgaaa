@@ -1,7 +1,7 @@
 # mypkg
 
 ## 概要    
-branchにあるファイル名【scripts】内にある【count.py】と【twice.py】を使った数字をカウントしていき、それをメッセージとして表示するパッケージです。
+branchesにあるファイル名【scripts】内にある【count.py】と【twice.py】を使った数字をカウントしていき、それをメッセージとして表示するパッケージです。
 
 ## 動作環境 
 ・Raspberry pi 4B  
