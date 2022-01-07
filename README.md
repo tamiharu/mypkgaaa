@@ -12,8 +12,8 @@ branchにあるファイル名【scripts】内にある【count.py】と【twice
 **パッケージを構築する**
 ```
 cd ~/catkin_ws/src
-git clone 
-cd ~/ROS_message
+git clone https://github.com/tamiharu/mypkg.git
+cd ~/mypkg
 catkin_make
 soource ~/.bashrc
 ```
@@ -35,8 +35,8 @@ ROSを有効にします。
 
 ## 動作結果（動画）  
 動作した結果をyoutubeにて公開しています。  
-[動画](https://www.youtube.com/watch?v=_PnO3ojpHpU)  
+動画は[こちら](https://www.youtube.com/watch?v=_PnO3ojpHpU)です。  
 
 ## その他(ライセンス、著作権者等)
-・ライセンス：[BSD 3-Clause License](https://github.com/tamiharu/ROS_message/blob/main/LICENSE)  
+・ライセンス：[BSD 3-Clause License]()  
 ・著作権者：上田隆一(Ryuichi Ueda)
